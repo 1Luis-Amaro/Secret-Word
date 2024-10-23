@@ -1,6 +1,6 @@
 import './StartScreen.css'
 
-const StartScreen = ({startGamee}) => {
+const StartScreen = ({startGame}) => {
   return (
     <div className="start" >
         <h1>Secrect Word</h1>
